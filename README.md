@@ -16,6 +16,34 @@
 ---
 
 
+
+<div style="height: 80px;border: 1px solid black; border-radius: 5px;justify-content: flex-start;display: flex;width: 320px;">
+  <div style="height: 80px;width: 80px;border: 1px solid black;">
+   <a href="https://www.facebook.com/nahid.hk.bd">
+     <img style="height: 60px;width: 60px; padding: 10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"/>
+   </a> 
+  </div>
+ <div style="height: 80px;width: 80px;border: 1px solid black;">
+  <a href="https://www.instagram.com/nahidhk.xyz?igshid=OGQ5ZDc2ODk2ZA==">
+     <img style="height: 60px;width: 60px; padding: 10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"/>
+   </a> 
+  </div>
+<div style="height: 80px;width: 80px;border: 1px solid black;">
+ <a href="https://www.x.com/NAHIDHK0">
+ <img style="height: 60px;width: 60px; padding: 10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"/>
+   </a> 
+</div>
+<div style="height: 80px;width: 80px;border: 1px solid black;">
+       <a href="https://www.linkedin.com/in/nahid-hk-910797255">
+         <img style="height: 60px;width: 60px; padding: 5px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
+       </a> 
+  </div>
+</div>  
+
+
+  ---
+
+
 ### About Me
 
 Nahid HayperText Keeping, is a web developer. He does electrical circuit repairing of mechanical. Moreover, he makes transfers through various channels. He has been interested in mechanics since long. There are many mechanical projects. He works in student life. But he is not unemployed. He earns. But he earns from mechanical side. He is very knowledgeable in Machine Learning in Science.
