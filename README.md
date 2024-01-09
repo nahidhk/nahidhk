@@ -41,7 +41,7 @@
 
 ### About Me
 
-Nahid HayperText Keeping, is a web developer. He does electrical circuit repairing of mechanical. Moreover, he makes transfers through various channels. He has been interested in mechanics since long. There are many mechanical projects. He works in student life. But he is not unemployed. He earns. But he earns from mechanical side. He is very knowledgeable in Machine Learning in Science.
+Nahid HK, is a web developer. He does electrical circuit repairing of mechanical. Moreover, he makes transfers through various channels. He has been interested in mechanics since long. There are many mechanical projects. He works in student life. But he is not unemployed. He earns. But he earns from mechanical side. He is very knowledgeable in Machine Learning in Science.
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
