@@ -74,6 +74,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/nahidhk">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidhk&langs_count=10&title_color=a855f7&text_color=000&icon_" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nahidhk&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nahidhk&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nahidhk&theme=2077" height="180em" />
