@@ -67,6 +67,9 @@
 <p><a href="https://www.buymeacoffee.com/nahidhk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nahidhk" /></a><a href="https://ko-fi.com/nahidhk"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="nahidhk" /></a></p><br><br>
 
 <h3 align="left">Stars</h3>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidhk&langs_count=10&title_color=a855f7&text_color=000&icon_" />
+
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=nahidhk&show_icons=true&locale=en&theme=" alt="nahidhk" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nahidhk&theme=" alt="nahidhk" /></p>
@@ -80,7 +83,7 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nahidhk&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nahidhk&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nahidhk&theme=2077" height="180em" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidhk&langs_count=10&title_color=a855f7&text_color=000&icon_" />
+
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=nahidhk&theme=default"/>
