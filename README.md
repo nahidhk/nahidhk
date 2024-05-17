@@ -1,6 +1,6 @@
 <h1 align="center">Assalamualaikum i'm Nahid HK</h1>
 <h3 align="center"><p> <a href="https://nahidhk.info">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=10&size=30&pause=1&color=F78325&center=true&vCenter=true&random=falsh&width=1000&lines=I+AM+A+WEB+DEVELOPER+;I+AM+A+ELECTRIC+REAPING;I+AM+A+ELECTRIC+CIRCUIT+DEVELOPER+;I+AM+AUDIO+EDITOR+"/></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=10&size=30&pause=1&color=F78325&center=true&vCenter=true&random=falsh&width=1000&lines=I+AM+A+WEB+DEVELOPER+;I+AM+A+ELECTRIC+REAPING;I+AM+A+ELECTRIC+CIRCUIT+DEVELOPER+;"/></a>
 </p></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahidhk&label=Profile%20views&color=0e75b6&style=flat" alt="nahidhk" /> </p>
 
