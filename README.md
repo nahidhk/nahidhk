@@ -1,28 +1,130 @@
-<h1 align="center">Hi 👋, I'm Nahidul islam</h1>
-<h3 align="center">A Developer in Pabna, Bangladesh.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nahidhk&label=Profile%20views&color=0e75b6&style=flat" alt="nahidhk" /> </p>
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hi%20👋%20I'm%20Nahidul%20Islam&fontSize=40&fontAlignY=35&animation=fadeIn" alt="Header" />
+</h1>
 
-- 👨‍💻 All of my projects are available at [nahidhk2007@gmail.com](nahidhk2007@gmail.com)
-
-- 📝 I regularly write articles on [Https://FB.com/nahid.td](Https://FB.com/nahid.td)
-
-- 💬 Ask me about **Hi, I am a web developer with 3 years of experience.**
-
-- 📫 How to reach me **nahidtdx@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/nahidhk0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nahidhk0" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nahidhk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nahidhk" height="30" width="40" /></a>
-<a href="https://fb.com/nahid.td" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nahid.td" height="30" width="40" /></a>
+<h3 align="center">A Passionate Full-Stack Developer from Pabna, Bangladesh</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nahidhk&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://twitter.com/nahidhk0">
+    <img src="https://img.shields.io/twitter/follow/nahidhk0?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Building+scalable+web+applications;3%2B+years+of+development+experience;Always+learning+new+technologies" alt="Typing SVG" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahidhk&show_icons=true&locale=en&layout=compact" alt="nahidhk" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nahidhk&show_icons=true&locale=en" alt="nahidhk" /></p>
+## 📌 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nahidhk&" alt="nahidhk" /></p>
+```yaml
+Name: Nahidul Islam
+Located_In: Pabna, Bangladesh
+Current_Focus: Full-Stack Web Development
+Experience: 3+ Years in Development
+Interests: Open Source, UI/UX, System Design
+Education: Pursuing Degree in Computer Science
+```
+
+· 👨‍💻 All of my projects are available at my portfolio (or link your main project repository)
+· 📝 I regularly write articles on Facebook about tech and development
+· 📫 How to reach me: nahidhk2007@gmail.com or nahidtdx@gmail.com
+· ⚡ Fun fact: I love solving complex problems and turning ideas into reality through code
+
+---
+
+🔗 Connect With Me
+
+<p align="left">
+  <a href="https://twitter.com/nahidhk0" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/nahidhk" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://fb.com/nahid.td" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="mailto:nahidhk2007@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+---
+
+🛠️ Tech Stack & Tools
+
+💻 Frontend & Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,sass" alt="Frontend" />
+</p>
+
+🗄️ Databases & Cloud
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,gcp,docker,nginx" alt="Backend" />
+</p>
+
+⚙️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,python,php,arduino,bash,linux,git,figma" alt="Tools" />
+</p>
+
+📱 Mobile & Others
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=android,reactnative,dotnet" alt="Mobile" />
+</p>
+
+---
+
+📊 GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nahidhk&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidhk&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nahidhk&theme=radical&hide_border=true&background=00000000" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nahidhk&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+🏆 GitHub Profile Badges
+
+<div align="center">
+
+https://img.shields.io/github/followers/nahidhk?label=Followers&style=social
+https://img.shields.io/github/stars/nahidhk?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&style=social
+
+</div>
+
+---
+
+<details>
+<summary>📈 Recent Development Activity</summary>
+
+<!-- START_SECTION:activity -->
+
+· 🔄 Working on multiple web development projects
+· 📚 Learning advanced backend architectures
+· 🎯 Contributing to open source when possible
+
+<!-- END_SECTION:activity -->
+
+</details>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&reversal=true" alt="Footer" />
+</p>
