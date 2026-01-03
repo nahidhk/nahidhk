@@ -27,7 +27,8 @@ Education: Pursuing Degree in Computer Science
 
  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nahidhk0)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://linkedin.com/in/nahidhk)[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) ](https://fb.com/nahid.td)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nahidhk2007@gmail.com)
 
-\--- 🛠️ Tech Stack & Tools 💻 Frontend & Backend
+
+--- 🛠️ Tech Stack & Tools 💻 Frontend & Backend
 
 ![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,php,net,laravel,python,nodejs)
 
