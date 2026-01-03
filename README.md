@@ -47,13 +47,11 @@ Education: Pursuing Degree in Computer Science
 --- 
 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nahidhk&show_icons=true&theme=radical&hide_border=true&bg_color=00000000) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nahidhk&layout=compact&theme=radical&hide_border=true&bg_color=00000000)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nahidhk&show_icons=true&theme=radical&hide_border=true&bg_color=00000000)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nahidhk&theme=radical&hide_border=true&background=00000000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nahidhk&layout=compact&theme=radical&hide_border=true&bg_color=00000000)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nahidhk&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7)
 
---- 
 🏆 GitHub Profile Badges
 
 ![based](https://img.shields.io/github/followers/nahidhk?label=Followers&style=social) ![dased](https://img.shields.io/github/stars/nahidhk?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&style=social)
